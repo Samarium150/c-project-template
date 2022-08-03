@@ -1,0 +1,8 @@
+[submodule "lib/uthash"]
+	path = lib/uthash
+	url = https://github.com/troydhanson/uthash.git
+	shallow = true
+[submodule "test/googletest"]
+	path = test/googletest
+	url = https://github.com/google/googletest.git
+	shallow = true
